@@ -1,2 +1,2 @@
-A = "i'm A STUDENT'";
+A = "I'm A STUDENT";
 lower(A);
