@@ -1,2 +1,5 @@
 A = "I'm A STUDENT";
-lower(A);
+B = lower(A);
+disp(B);
+C = strrep(B,'student','teacher');
+disp(C);
